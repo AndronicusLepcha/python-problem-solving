@@ -1,0 +1,8 @@
+a=complex(12)
+print(a)
+b=complex(True)
+print(b)
+c=complex(10,20)
+print(c)
+d=complex(True,False)
+print(d)
