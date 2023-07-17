@@ -6,3 +6,5 @@ print(dir())
 
 import add
 print(dir(add))
+
+print(__name__)
